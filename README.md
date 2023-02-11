@@ -28,7 +28,7 @@ tasks and sources to remake/improve my data analysis skills
 - [ ] Naked Statistics
 
 ## Visualization/Storytelling
-- [ ] Practical SQL
+- [ ] [Practical SQL](http://projanco.com/Library/Practical%20SQL%20A%20Beginner%E2%80%99s%20Guide%20to%20Storytelling%20with%20Data.pdf)
 
 ## Career
 - [ ] The Startup of You
