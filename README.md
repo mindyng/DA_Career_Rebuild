@@ -5,11 +5,12 @@ tasks and sources to remake/improve my data analysis skills
 - [ ] Data Science for Business (connect high-level data analysis techniques to high-level biz probs)
 
 ## Business Analytics
-- [ ] Lean Analytics
+- [ ] [Lean Analytics](https://choolskool.com/wp-content/uploads/2021/07/Lean-Analytics_-Use-Data-to-Build-a-Better-Startup-Faster-PDFDrive.com-.pdf)
 - [ ] Trustworthy Online Controlled Experiments
 - [ ] [How To Measure Anything](https://www.professionalwargaming.co.uk/HowToMeasureAnythingEd2DouglasWHubbard.pdf)
 
 ## SQL Skills
+- [ ] [SQL for Data Scientists - A Beginner's Guide for Building Datasets for Analysis](https://www.oreilly.com/library/view/sql-for-data/9781119669364/)
 - [ ] DataLemur
 - [ ] InterviewQuery
 
