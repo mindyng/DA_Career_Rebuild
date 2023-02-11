@@ -27,7 +27,7 @@ tasks and sources to remake/improve my data analysis skills
 - [ ] How to Lie with Statistics
 - [ ] Naked Statistics
 
-- Visualization/Story Telling
+## Visualization/Storytelling
 - [ ] Practical SQL
 
 ## Career
