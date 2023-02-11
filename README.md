@@ -20,7 +20,7 @@ tasks and sources to remake/improve my data analysis skills
 - [ ] [Danny Ma's Case Studies](https://8weeksqlchallenge.com/getting-started/)
 
 ## Python
-- [] [Collection of DS Take-Home Challenges](https://github.com/JifuZhao/DS-Take-Home)
+- [ ] [Collection of DS Take-Home Challenges](https://github.com/JifuZhao/DS-Take-Home)
 
 ## Statistics
 - [ ] Practical Statistics for Data Scientists
