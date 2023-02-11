@@ -1,7 +1,7 @@
 tasks and sources to remake/improve my data analysis skills
 
 ## Business Acumen
-- [ ] Personal MBA (how to collab with stakeholders)
+- [ ] [Personal MBA](https://vk.com/doc210633565_570900216?hash=9XlwlpWSOsRx2BzySAc8IBPWP8xux8S9K35JKB0Kxdg) (how to collab with stakeholders)
 - [ ] Data Science for Business (connect high-level data analysis techniques to high-level biz probs)
 
 ## Business Analytics
