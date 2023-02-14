@@ -15,12 +15,12 @@ tasks and sources to remake/improve my data analysis skills
 - [ ] InterviewQuery
 
 ## Take Homes
-# SQL
+### * SQL
 - [ ] [PayPal/Braintree Analytics Code Challenge](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst)
 - [ ] [Asana Take-Home](https://github.com/danamkaplan/asana_takehome)
 - [ ] [Danny Ma's Case Studies](https://8weeksqlchallenge.com/getting-started/)
 
-## Python
+### * Python
 - [ ] [Collection of DS Take-Home Challenges](https://github.com/JifuZhao/DS-Take-Home)
 
 ## Statistics
