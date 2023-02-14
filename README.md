@@ -30,7 +30,7 @@ tasks and sources to remake/improve my data analysis skills
 
 ## Visualization/Storytelling
 - [ ] [Practical SQL](http://projanco.com/Library/Practical%20SQL%20A%20Beginner%E2%80%99s%20Guide%20to%20Storytelling%20with%20Data.pdf)
-* AI Viz :starstruck:
+* AI Viz 🤩:
 - [ ] [Hal9](https://www.hal9.com/?gclid=CjwKCAiA3KefBhByEiwAi2LDHKJD9Kf-ErD37hloRHBzFIJmf5-u5nUCeLYbE_r33-XCXFQfttbq-hoCYFoQAvD_BwE)
 - [ ] [Channel](https://www.usechannel.com/)
 
