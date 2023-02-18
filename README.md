@@ -6,7 +6,7 @@ tasks and sources to remake/improve my data analysis skills
 
 ## Business Analytics
 - [ ] [Lean Analytics](https://choolskool.com/wp-content/uploads/2021/07/Lean-Analytics_-Use-Data-to-Build-a-Better-Startup-Faster-PDFDrive.com-.pdf)
-- [ ] Trustworthy Online Controlled Experiments
+- [x] Trustworthy Online Controlled Experiments
 - [ ] [How To Measure Anything](https://www.professionalwargaming.co.uk/HowToMeasureAnythingEd2DouglasWHubbard.pdf)
 
 ## SQL Skills
