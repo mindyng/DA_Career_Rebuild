@@ -11,7 +11,7 @@ tasks and sources to remake/improve my data analysis skills
 
 ## SQL Skills
 - [ ] [SQL for Data Scientists - A Beginner's Guide for Building Datasets for Analysis](https://www.oreilly.com/library/view/sql-for-data/9781119669364/)
-- [ ] DataLemur
+- [x] DataLemur
 - [ ] InterviewQuery
 
 ## Take Homes
