@@ -1,4 +1,4 @@
-tasks and sources to remake/improve my data analysis skills
+rebuilding business mental models and leveling up analytic technical skills
 
 ## Business Acumen
 - [ ] [Personal MBA](https://vk.com/doc210633565_570900216?hash=9XlwlpWSOsRx2BzySAc8IBPWP8xux8S9K35JKB0Kxdg) (how to collab with stakeholders)
