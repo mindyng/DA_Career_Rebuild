@@ -21,7 +21,7 @@ rebuilding business mental models and leveling up analytic technical skills
 - [ ] [Danny Ma's Case Studies](https://8weeksqlchallenge.com/getting-started/)
 
 ### * Python
-- [ ] [InterviewQuery Take-Home's]
+- [ ] InterviewQuery Take-Home's
 - [ ] [Collection of DS Take-Home Challenges](https://github.com/JifuZhao/DS-Take-Home)
 
 ## Statistics
