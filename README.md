@@ -10,7 +10,7 @@ rebuilding business mental models and leveling up analytic technical skills
 - [ ] [How To Measure Anything](https://www.professionalwargaming.co.uk/HowToMeasureAnythingEd2DouglasWHubbard.pdf)
 
 ## SQL Skills
-- [ ] [SQL for Data Scientists - A Beginner's Guide for Building Datasets for Analysis](https://www.oreilly.com/library/view/sql-for-data/9781119669364/)
+- [x] [SQL for Data Scientists - A Beginner's Guide for Building Datasets for Analysis](https://www.oreilly.com/library/view/sql-for-data/9781119669364/)
 - [x] DataLemur
 - [ ] InterviewQuery
 
