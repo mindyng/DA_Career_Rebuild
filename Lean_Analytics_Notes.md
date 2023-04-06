@@ -1,4 +1,5 @@
-## A good metric is comparative. Being able to compare a metric to other time
+## A good metric is comparative. 
+Being able to compare a metric to other time
 periods, groups of users, or competitors helps you understand which way things
 are moving. “Increased conversion from last week” is more meaningful than
 “2% conversion.”
@@ -27,8 +28,7 @@ spike or a long-term trend. In a car, speed is one metric, but speed right now
 over average speed this hour shows you a lot about whether you’re
 accelerating or slowing down.
 
-## Ratios are also good for comparing factors that are somehow opposed, or
-for which there’s an inherent tension. 
+## Ratios are also good for comparing factors that are somehow opposed, or for which there’s an inherent tension. 
 In a car, this might be distance covered divided by traffic tickets. The faster you drive, the more distance you
 cover—but the more tickets you get. This ratio might suggest whether or not
 you should be breaking the speed limit.
