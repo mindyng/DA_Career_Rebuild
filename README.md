@@ -13,7 +13,7 @@ rebuilding business mental models and leveling up analytic technical skills
 ## SQL Skills
 - [x] [SQL for Data Scientists - A Beginner's Guide for Building Datasets for Analysis](https://www.oreilly.com/library/view/sql-for-data/9781119669364/)
 - [x] DataLemur
-- [ ] InterviewQuery
+- [x] InterviewQuery
 
 ## Take Homes
 ### * SQL
