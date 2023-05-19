@@ -2,6 +2,7 @@ rebuilding business mental models and leveling up analytic technical skills
 
 ## Business Acumen
 - [ ] [Personal MBA](https://vk.com/doc210633565_570900216?hash=9XlwlpWSOsRx2BzySAc8IBPWP8xux8S9K35JKB0Kxdg) (how to collab with stakeholders)
+- [ ] [How To Win Friends and Influence People](https://images.kw.com/docs/2/1/2/212345/1285134779158_htwfaip.pdf)
 - [ ] [On Strategy](file:///Users/mindyng/Downloads/The_boston_consulting_group_on_strategy.pdf)
 - [ ] Data Science for Business (connect high-level data analysis techniques to high-level biz probs)
 
