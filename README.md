@@ -21,7 +21,7 @@ rebuilding business mental models and leveling up analytic technical skills
 ### * SQL
 - [x] [PayPal/Braintree Analytics Code Challenge](https://github.com/AlexanderConnelly/BrainTree_SQL_Coding_Challenge_Data_Analyst)
 - [x] [Asana Take-Home](https://github.com/amalrkrishna/asana-take-home/blob/master/Asana-Take-Home.ipynb)
-- [-] [Danny Ma's Case Studies](https://8weeksqlchallenge.com/getting-started/)
+- [ ] [Danny Ma's Case Studies](https://8weeksqlchallenge.com/getting-started/)
 
 ### * Python
 - [ ] InterviewQuery Take-Home's
