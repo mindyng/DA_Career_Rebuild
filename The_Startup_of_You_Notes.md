@@ -50,6 +50,7 @@
 * always invest in self, continue to adapt and evolve (competitive edge, network, intelligent risks)
 * Benjamin Franklin - will I go to bed tonight smarter than I am right now?
 * keep reinventing self
+* always in test phase
 
 * to bootstrap
 * financing- think of next round- higher valuation (progress), island-hopping, prove to have broader range of investors to invest in
