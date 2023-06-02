@@ -1,6 +1,6 @@
 As a data analyst, there are several ways you can hustle to enhance your skills, increase your value, and excel in your career. Here are some strategies you can implement:
 
-1. Continuously Learn and Stay Updated: The field of data analysis is ever-evolving, so it's crucial to stay updated with the latest tools, techniques, and trends. Regularly invest time in learning new data analysis methodologies, programming languages (e.g., Python, R), statistical techniques, and data visualization tools (e.g., Tableau, Power BI). Take advantage of online courses, webinars, and industry conferences to expand your knowledge.
+[ ] 1. Continuously Learn and Stay Updated: The field of data analysis is ever-evolving, so it's crucial to stay updated with the latest tools, techniques, and trends. Regularly invest time in learning new data analysis methodologies, programming languages (e.g., Python, R), statistical techniques, and data visualization tools (e.g., Tableau, Power BI). Take advantage of online courses, webinars, and industry conferences to expand your knowledge.
 
 2. Network with Peers and Experts: Build a strong professional network within the data analysis community. Attend industry events, join relevant online forums, and participate in data analysis groups. Engage in discussions, share your knowledge, and learn from others' experiences. Networking can open up opportunities for collaboration, mentorship, and career growth.
 
