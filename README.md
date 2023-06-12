@@ -8,7 +8,7 @@ rebuilding business mental models and leveling up analytic technical skills
 - [ ] Data Science for Business (connect high-level data analysis techniques to high-level biz probs)
 
 ## Business Analytics
-- [x] [Lean Analytics](https://choolskool.com/wp-content/uploads/2021/07/Lean-Analytics_-Use-Data-to-Build-a-Better-Startup-Faster-PDFDrive.com-.pdf)
+- [x] [Lean Analytics](file:///Users/mindyng/Downloads/(Lean%20(O'Reilly))%20Alistair%20Croll,%20Benjamin%20Yoskovitz%20-%20Lean%20Analytics_%20Use%20Data%20to%20Build%20a%20Better%20Startup%20Faster-O'Reilly%20Media%20(2013).pdf)
 - [x] Trustworthy Online Controlled Experiments
 - [ ] [How To Measure Anything](https://www.professionalwargaming.co.uk/HowToMeasureAnythingEd2DouglasWHubbard.pdf)
 
