@@ -56,6 +56,15 @@ of your neighbors as you pull your attractive new vehicle into the driveway
 while de-emphasizing things that aren’t, by either minimizing certain facts
 or leaving them out entirely. Proper use of Framing can help you present
 your offer persuasively while honoring your customer’s time and attention.
+- By giving your prospects something useful at no
+cost up front, you earn their attention and give your potential customers a
+chance to actually experience the value you provide. Done well, this
+strategy will net you sales you wouldn’t have made otherwise
+- Asking for Permission to follow up after providing Free value is more
+effective than interruption. Offering genuine value earns your prospect’s
+Attention, and asking for Permission gives you the opportunity to focus on
+communicating with people you know are interested in what you have to
+offer.
 - 
 
 
