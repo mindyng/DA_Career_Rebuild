@@ -42,5 +42,8 @@ rebuilding business mental models and leveling up analytic technical skills
 - [x] [The Startup of You](https://thefloforce.files.wordpress.com/2015/06/the-start-up-of-you-reid-hoffman.pdf)
 - [ ] The Data Science Handbook
 - [ ] [So Good They Can't Ignore You](http://www.stafforini.com/docs/Newport%20-%20So%20good%20they%20can't%20ignore%20you.pdf)
+- [ ] The Effective Manager - Mark Horstman, Kate Braun, Sarah Sentes
+- [ ] Radical Candor - Kim Scott
+- [ ] [Manager Tools Podcast](https://www.manager-tools.com/all-podcasts)
 
 ## Finish Line 🎉
