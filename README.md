@@ -9,6 +9,7 @@ rebuilding business mental models and leveling up analytic technical skills
 
 ## Business Analytics
 - [x] [Lean Analytics](file:///Users/mindyng/Downloads/(Lean%20(O'Reilly))%20Alistair%20Croll,%20Benjamin%20Yoskovitz%20-%20Lean%20Analytics_%20Use%20Data%20to%20Build%20a%20Better%20Startup%20Faster-O'Reilly%20Media%20(2013).pdf)
+- [ ] [Metrics](https://data-chef.notion.site/Metric-Overview-fe3202bb07624dde85d2d1d8aee3fc8d)
 - [x] Trustworthy Online Controlled Experiments
 - [ ] [How To Measure Anything](https://www.professionalwargaming.co.uk/HowToMeasureAnythingEd2DouglasWHubbard.pdf)
 
